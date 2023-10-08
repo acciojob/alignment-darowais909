@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.middle{
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+}
+#t11,#t12,#t13{
+	border-style:solid;
+	border-width:1px;
+	border-spacing:20px;
+	cell-padding:1px;
+}
+table{
+	margin:50px;
+}
